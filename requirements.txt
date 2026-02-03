@@ -1,0 +1,2 @@
+# Requires: unlikely-impossibility
+# (Not available on PyPI)
